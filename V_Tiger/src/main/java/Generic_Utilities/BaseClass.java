@@ -39,6 +39,7 @@ public class BaseClass {
   }
   
   //Pull1 changes
+  // pushing again
   //@Parameters("BROWSER")  //(String BROWSER)
   @BeforeClass(groups = {"sanityTest", "regressionTest","smokeTest"})
   
