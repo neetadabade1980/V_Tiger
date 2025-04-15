@@ -38,7 +38,7 @@ public class BaseClass {
 	  System.out.println("Parallel execution");
   }
   
-  //Pull1
+  //Pull1 changes
   //@Parameters("BROWSER")  //(String BROWSER)
   @BeforeClass(groups = {"sanityTest", "regressionTest","smokeTest"})
   
